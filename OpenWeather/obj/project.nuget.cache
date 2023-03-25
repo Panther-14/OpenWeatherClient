@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HMO7UD9pOVAu81bVj4mEDeoDVwpudCOr2YM3Ss9fLvJ6N1g4d/TftcPr1jvXrrtvw15EJude3TYxrlB/M5XgZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yo\\Desktop\\JP_Desktop\\Universidad\\Semestre-6\\OpenWeather\\OpenWeather\\OpenWeather.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

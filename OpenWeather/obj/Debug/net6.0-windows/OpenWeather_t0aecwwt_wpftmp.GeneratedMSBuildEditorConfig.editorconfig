@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OpenWeather_t0aecwwt_wpftmp
+build_property.ProjectDir = C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\OpenWeather\OpenWeather\
