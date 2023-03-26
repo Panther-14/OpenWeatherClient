@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:OpenWeather"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Weather" Height="450" Width="800">
     <Window.Background>
         <ImageBrush ImageSource="/images/thunderstorm.jpg"/>
     </Window.Background>
@@ -20,11 +20,10 @@
                      HorizontalAlignment="Center"
                      Margin="0,10,0,0"
                      TextWrapping="Wrap"
-                     Text="Ciudad"
                      VerticalAlignment="Top"
                      Width="292"
                      Height="39"
-                     Background="{x:Null}"
+                     Background="White"
                      FontSize="22"
                      TextAlignment="Center"
             />
@@ -37,30 +36,105 @@
                 <ColumnDefinition Width="1*"/>
                 <ColumnDefinition Width="1*"/>
             </Grid.ColumnDefinitions>
-            <Grid Grid.Column="0"/>
-            <Grid Grid.Column="1"/>
-            <Grid Grid.Column="2"/>
-            <Grid Grid.Column="3"/>
-            <Grid Grid.Column="4"/>
+            <Grid Grid.Column="0">
+                <Image x:Name="imgWeather0"
+                       Margin="30,10,30,128"
+                />
+                <Label x:Name="lbMin0"
+                       Content=""
+                       Margin="10,0,10,61"
+                       Height="26"
+                       VerticalAlignment="Bottom" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold"
+                />
+                <Label x:Name="lbMax0"
+                       Content=""
+                       Margin="10,0,10,30"
+                       Height="26"
+                       VerticalAlignment="Bottom" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold"
+                />
+            </Grid>
+            <Grid Grid.Column="1">
+                <Image x:Name="imgWeather1"
+                       Margin="30,10,30,128"/>
+                <Label x:Name="lbMin1"
+                       Content=""
+                       Margin="10,0,10,61"
+                       Height="26"
+                       VerticalAlignment="Bottom" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold"
+                />
+                <Label x:Name="lbMax1"
+                       Content=""
+                       Margin="10,0,10,30"
+                       Height="26"
+                       VerticalAlignment="Bottom" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold"
+                />
+            </Grid>
+            <Grid Grid.Column="2">
+                <Image x:Name="imgWeather2"
+                       Margin="30,10,30,128"
+                />
+                <Label x:Name="lbMin2"
+                       Content=""
+                       Margin="10,0,10,61"
+                       Height="26"
+                       VerticalAlignment="Bottom" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold"
+                />
+                <Label x:Name="lbMax2"
+                       Content=""
+                       Margin="10,0,10,30"
+                       Height="26"
+                       VerticalAlignment="Bottom" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold"
+                />
+            </Grid>
+            <Grid Grid.Column="3">
+                <Image x:Name="imgWeather3"
+                       Margin="30,10,30,128"
+                />
+                <Label x:Name="lbMin3"
+                       Content=""
+                       Margin="10,0,10,61"
+                       Height="26"
+                       VerticalAlignment="Bottom" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold"
+                />
+                <Label x:Name="lbMax3"
+                       Content=""
+                       Margin="10,0,10,30"
+                       Height="26"
+                       VerticalAlignment="Bottom" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold"
+                />
+            </Grid>
+            <Grid Grid.Column="4">
+                <Image x:Name="imgWeather4"
+                       Margin="30,10,30,128"
+                />
+                <Label x:Name="lbMin4"
+                       Content=""
+                       Margin="10,0,10,61"
+                       Height="26"
+                       VerticalAlignment="Bottom" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold"
+                />
+                <Label x:Name="lbMax4"
+                       Content=""
+                       Margin="10,0,10,30"
+                       Height="26"
+                       VerticalAlignment="Bottom" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold"
+                />
+            </Grid>
         </Grid>
         <Grid Grid.Row="2">
             <Button x:Name="btnNow"
                     Content="Clima Actual"
-                    HorizontalAlignment="Left"
-                    Margin="281,0,0,0"
+                    Margin="271,0,0,0"
                     VerticalAlignment="Center"
                     Click="btnNow_Click"
-                    Height="35"
-                    Width="114"
+                    Height="35" HorizontalAlignment="Left" Width="114"
             />
             <Button x:Name="btnFiveDays"
                     Content="Cinco Dias"
-                    HorizontalAlignment="Left"
-                    Margin="400,0,0,0"
+                    Margin="415,0,0,0"
                     VerticalAlignment="Center"
                     Click="btnFiveDays_Click"
-                    Height="35"
-                    Width="114"
+                    Height="35" HorizontalAlignment="Left" Width="114"
             />
         </Grid>
     </Grid>

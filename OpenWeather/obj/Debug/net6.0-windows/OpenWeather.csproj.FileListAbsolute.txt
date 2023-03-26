@@ -21,3 +21,26 @@ C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\OpenWeather\OpenWeather\ob
 C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\OpenWeather\OpenWeather\obj\Debug\net6.0-windows\OpenWeather.pdb
 C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\OpenWeather\OpenWeather\obj\Debug\net6.0-windows\OpenWeather.genruntimeconfig.cache
 C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\OpenWeather\OpenWeather\obj\Debug\net6.0-windows\ref\OpenWeather.dll
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\Desarrollo de Sistemas en Red\OpenWeather\OpenWeather\bin\Debug\net6.0-windows\OpenWeather.exe
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\Desarrollo de Sistemas en Red\OpenWeather\OpenWeather\bin\Debug\net6.0-windows\OpenWeather.deps.json
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\Desarrollo de Sistemas en Red\OpenWeather\OpenWeather\bin\Debug\net6.0-windows\OpenWeather.runtimeconfig.json
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\Desarrollo de Sistemas en Red\OpenWeather\OpenWeather\bin\Debug\net6.0-windows\OpenWeather.dll
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\Desarrollo de Sistemas en Red\OpenWeather\OpenWeather\bin\Debug\net6.0-windows\OpenWeather.pdb
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\Desarrollo de Sistemas en Red\OpenWeather\OpenWeather\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\Desarrollo de Sistemas en Red\OpenWeather\OpenWeather\obj\Debug\net6.0-windows\OpenWeather.csproj.AssemblyReference.cache
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\Desarrollo de Sistemas en Red\OpenWeather\OpenWeather\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\Desarrollo de Sistemas en Red\OpenWeather\OpenWeather\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\Desarrollo de Sistemas en Red\OpenWeather\OpenWeather\obj\Debug\net6.0-windows\OpenWeather_MarkupCompile.cache
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\Desarrollo de Sistemas en Red\OpenWeather\OpenWeather\obj\Debug\net6.0-windows\OpenWeather_MarkupCompile.lref
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\Desarrollo de Sistemas en Red\OpenWeather\OpenWeather\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\Desarrollo de Sistemas en Red\OpenWeather\OpenWeather\obj\Debug\net6.0-windows\OpenWeather.g.resources
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\Desarrollo de Sistemas en Red\OpenWeather\OpenWeather\obj\Debug\net6.0-windows\OpenWeather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\Desarrollo de Sistemas en Red\OpenWeather\OpenWeather\obj\Debug\net6.0-windows\OpenWeather.AssemblyInfoInputs.cache
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\Desarrollo de Sistemas en Red\OpenWeather\OpenWeather\obj\Debug\net6.0-windows\OpenWeather.AssemblyInfo.cs
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\Desarrollo de Sistemas en Red\OpenWeather\OpenWeather\obj\Debug\net6.0-windows\OpenWeather.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\Desarrollo de Sistemas en Red\OpenWeather\OpenWeather\obj\Debug\net6.0-windows\OpenWeather.csproj.CopyComplete
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\Desarrollo de Sistemas en Red\OpenWeather\OpenWeather\obj\Debug\net6.0-windows\OpenWeather.dll
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\Desarrollo de Sistemas en Red\OpenWeather\OpenWeather\obj\Debug\net6.0-windows\refint\OpenWeather.dll
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\Desarrollo de Sistemas en Red\OpenWeather\OpenWeather\obj\Debug\net6.0-windows\OpenWeather.pdb
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\Desarrollo de Sistemas en Red\OpenWeather\OpenWeather\obj\Debug\net6.0-windows\OpenWeather.genruntimeconfig.cache
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-6\Desarrollo de Sistemas en Red\OpenWeather\OpenWeather\obj\Debug\net6.0-windows\ref\OpenWeather.dll

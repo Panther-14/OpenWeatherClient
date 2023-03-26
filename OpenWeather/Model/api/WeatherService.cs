@@ -7,15 +7,16 @@ using System.Net.Http;
 using System.Net.Http.Json;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Media.Imaging;
 
 namespace OpenWeather.Model.api
 {
     public class WeatherService
     {
-        private static readonly string
-        URL_BASE = "https://api.openweathermap.org/data/2.5/";
-        private static readonly string
-        APP_ID = "76e6b3aff20f4ce3f5aafe7e65323546";
+        private static readonly string URL_BASE = "https://api.openweathermap.org/data/2.5/";
+        private static readonly string APP_ID = "";//Your API KEY
+        private static readonly string IMG_URL_BASE_START = "https://openweathermap.org/img/wn/";
+        private static readonly string IMG_URL_BASE_END = "@2x.png";
 
         public static async Task<WeatherOneDayResponse> CheckOneDayWeather(string city)
         {
@@ -99,6 +100,14 @@ namespace OpenWeather.Model.api
                 }
                 return weatherResponse;
             }
+        }
+        public static BitmapImage GetBitmapImage(string icon)
+        {
+            BitmapImage bitmap = new BitmapImage();
+            bitmap.BeginInit();
+            bitmap.UriSource = new Uri(IMG_URL_BASE_START + icon + IMG_URL_BASE_END);
+            bitmap.EndInit();
+            return bitmap;
         }
     }
 }
